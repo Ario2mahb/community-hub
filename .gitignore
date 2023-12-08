@@ -3,7 +3,7 @@ logs
 node_modules
 npm-debug.log
 coverage/
-run
+runوئ 
 dist
 .env
 .DS_Store
